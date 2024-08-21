@@ -1,0 +1,12 @@
+# Ensure consistent line endings
+* text=auto
+
+# Normalize all text files to LF on commit
+*.c text
+*.h text
+*.cpp text
+*.java text
+*.js text
+*.html text
+*.css text
+*.md text
